@@ -1,4 +1,5 @@
-telegram-views
+#telegram-bot-views
+
 I didn’t plan to write about this here, but after running the same tests over and over, it started to feel strange not to leave a note.
 
 This repository exists because I was building a small tester bot to observe how Telegram updates view counts under repeated conditions. The bot wasn’t designed for growth or promotion. It joins channels, watches posts, logs view behavior, waits, and repeats. Over time, the patterns it surfaced didn’t line up with what I originally assumed.
